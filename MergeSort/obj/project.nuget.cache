@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A15xoAR2ZKYQ9HfaXiP5OqFOzokCeAIAomLauTh9UNB1KtNJJqEuUfofzmODizAoX09lc5Ih3LJTm4REbwLlTQ==",
+  "dgSpecHash": "rDmuCo7gl9jkut2OAdwaDYQILVBRIeFCu79xXymyzER/d/jCRg6OzP0PP7rW7u2BM1rI76Nma6stR4PucBuAvw==",
   "success": true,
-  "projectFilePath": "/Users/Evgenii/LearnCsharp/MergeSort/MergeSort/MergeSort.csproj",
+  "projectFilePath": "D:\\Programing\\CSharp_learn\\SortingAlgorithms\\MergeSort\\MergeSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
